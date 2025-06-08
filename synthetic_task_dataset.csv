@@ -1,0 +1,101 @@
+Task ID,Description,Category,Assigned To,Status,Priority,Created Date,Due Date
+TASK-001,Set up CI/CD pipeline,Testing,Charlie,In Progress,Low,2025-05-23,2025-05-30
+TASK-002,Write unit tests for API,Design,Alice,Done,Low,2025-05-28,2025-06-11
+TASK-003,Create wireframes for new module,Development,Bob,Done,Low,2025-05-09,2025-05-15
+TASK-004,Write unit tests for API,Testing,Alice,Done,Medium,2025-05-20,2025-05-31
+TASK-005,Set up CI/CD pipeline,Documentation,Charlie,Done,Low,2025-05-31,2025-06-09
+TASK-006,Analyze user feedback,Design,David,Done,Low,2025-05-12,2025-05-19
+TASK-007,Analyze user feedback,Design,David,In Progress,Low,2025-05-17,2025-06-01
+TASK-008,Fix login bug,Documentation,Bob,In Progress,Low,2025-05-10,2025-05-22
+TASK-009,Update user manual,Design,Alice,In Progress,Low,2025-06-02,2025-06-15
+TASK-010,Review PR #45,Testing,David,In Progress,Low,2025-06-04,2025-06-09
+TASK-011,Review PR #45,Documentation,Alice,To Do,High,2025-05-10,2025-05-21
+TASK-012,Implement OAuth2 authentication,Development,Charlie,Done,Low,2025-05-15,2025-05-26
+TASK-013,Write unit tests for API,Testing,David,To Do,High,2025-06-04,2025-06-08
+TASK-014,Refactor old modules,Documentation,Alice,Done,Medium,2025-05-17,2025-05-29
+TASK-015,Analyze user feedback,Design,Bob,Done,Low,2025-06-03,2025-06-07
+TASK-016,Write unit tests for API,Documentation,Bob,In Progress,Low,2025-06-07,2025-06-19
+TASK-017,Review PR #45,Testing,Alice,To Do,Medium,2025-06-06,2025-06-11
+TASK-018,Fix login bug,Testing,Alice,To Do,Medium,2025-05-23,2025-05-24
+TASK-019,Write unit tests for API,Development,Charlie,Done,Low,2025-05-25,2025-06-01
+TASK-020,Review PR #45,Design,David,To Do,High,2025-05-14,2025-05-25
+TASK-021,Design the new dashboard,Testing,Charlie,In Progress,High,2025-06-04,2025-06-09
+TASK-022,Write unit tests for API,Development,Charlie,In Progress,Medium,2025-05-14,2025-05-21
+TASK-023,Set up CI/CD pipeline,Design,Bob,Done,High,2025-05-22,2025-05-31
+TASK-024,Write unit tests for API,Development,Alice,Done,Medium,2025-06-06,2025-06-15
+TASK-025,Write unit tests for API,Development,David,Done,Low,2025-05-27,2025-06-02
+TASK-026,Review PR #45,Testing,Bob,In Progress,Medium,2025-05-13,2025-05-15
+TASK-027,Review PR #45,Development,Alice,In Progress,Low,2025-05-14,2025-05-21
+TASK-028,Review PR #45,Testing,Charlie,In Progress,Low,2025-06-01,2025-06-02
+TASK-029,Design the new dashboard,Development,Alice,To Do,High,2025-05-15,2025-05-18
+TASK-030,Write unit tests for API,Documentation,David,To Do,High,2025-05-10,2025-05-20
+TASK-031,Write unit tests for API,Design,Bob,Done,Low,2025-05-14,2025-05-26
+TASK-032,Review PR #45,Testing,Bob,Done,Medium,2025-05-09,2025-05-10
+TASK-033,Create wireframes for new module,Testing,Charlie,To Do,Low,2025-05-11,2025-05-23
+TASK-034,Fix login bug,Development,Alice,Done,Medium,2025-05-15,2025-05-26
+TASK-035,Review PR #45,Design,Charlie,In Progress,Medium,2025-06-04,2025-06-12
+TASK-036,Update user manual,Design,Charlie,To Do,Low,2025-06-02,2025-06-05
+TASK-037,Update user manual,Documentation,Alice,To Do,Medium,2025-06-07,2025-06-20
+TASK-038,Analyze user feedback,Development,Charlie,To Do,Low,2025-05-16,2025-05-17
+TASK-039,Update user manual,Documentation,Alice,In Progress,High,2025-05-22,2025-06-05
+TASK-040,Write unit tests for API,Documentation,Alice,In Progress,Medium,2025-05-09,2025-05-18
+TASK-041,Set up CI/CD pipeline,Design,Bob,In Progress,Medium,2025-05-14,2025-05-26
+TASK-042,Write unit tests for API,Design,David,To Do,High,2025-06-04,2025-06-09
+TASK-043,Review PR #45,Development,Bob,In Progress,Medium,2025-05-20,2025-06-03
+TASK-044,Refactor old modules,Testing,Charlie,Done,Medium,2025-05-25,2025-05-26
+TASK-045,Update user manual,Testing,David,Done,High,2025-05-25,2025-06-05
+TASK-046,Write unit tests for API,Testing,David,To Do,High,2025-05-16,2025-05-29
+TASK-047,Create wireframes for new module,Development,Bob,In Progress,Medium,2025-05-16,2025-05-17
+TASK-048,Set up CI/CD pipeline,Testing,Bob,To Do,Low,2025-05-30,2025-06-05
+TASK-049,Review PR #45,Design,David,Done,High,2025-05-09,2025-05-11
+TASK-050,Write unit tests for API,Development,David,In Progress,Low,2025-05-09,2025-05-23
+TASK-051,Implement OAuth2 authentication,Design,Bob,In Progress,High,2025-05-10,2025-05-16
+TASK-052,Refactor old modules,Testing,Alice,In Progress,High,2025-06-04,2025-06-07
+TASK-053,Analyze user feedback,Design,Alice,Done,Low,2025-06-03,2025-06-16
+TASK-054,Fix login bug,Testing,Bob,Done,High,2025-06-02,2025-06-03
+TASK-055,Design the new dashboard,Documentation,David,In Progress,High,2025-05-09,2025-05-10
+TASK-056,Implement OAuth2 authentication,Design,Charlie,Done,Medium,2025-05-13,2025-05-14
+TASK-057,Create wireframes for new module,Documentation,Bob,Done,High,2025-05-19,2025-05-31
+TASK-058,Write unit tests for API,Documentation,Charlie,Done,Medium,2025-05-20,2025-06-01
+TASK-059,Refactor old modules,Documentation,Charlie,In Progress,High,2025-06-04,2025-06-16
+TASK-060,Implement OAuth2 authentication,Design,Bob,In Progress,Medium,2025-06-04,2025-06-18
+TASK-061,Design the new dashboard,Development,Alice,In Progress,Medium,2025-06-01,2025-06-16
+TASK-062,Design the new dashboard,Development,David,Done,High,2025-06-05,2025-06-13
+TASK-063,Write unit tests for API,Development,Charlie,To Do,Low,2025-06-04,2025-06-09
+TASK-064,Create wireframes for new module,Documentation,Charlie,In Progress,Low,2025-05-30,2025-06-09
+TASK-065,Review PR #45,Documentation,Charlie,To Do,Low,2025-05-09,2025-05-22
+TASK-066,Update user manual,Documentation,Bob,To Do,Medium,2025-06-02,2025-06-12
+TASK-067,Implement OAuth2 authentication,Documentation,David,Done,Low,2025-05-15,2025-05-16
+TASK-068,Create wireframes for new module,Testing,Charlie,In Progress,High,2025-05-18,2025-05-31
+TASK-069,Set up CI/CD pipeline,Design,David,To Do,Medium,2025-06-02,2025-06-15
+TASK-070,Set up CI/CD pipeline,Testing,David,In Progress,Low,2025-05-10,2025-05-11
+TASK-071,Design the new dashboard,Design,Alice,To Do,Medium,2025-05-21,2025-06-04
+TASK-072,Refactor old modules,Development,Charlie,Done,High,2025-05-28,2025-06-06
+TASK-073,Implement OAuth2 authentication,Design,Charlie,To Do,Low,2025-06-04,2025-06-14
+TASK-074,Refactor old modules,Documentation,David,To Do,Low,2025-05-31,2025-06-08
+TASK-075,Update user manual,Design,Bob,Done,High,2025-06-05,2025-06-07
+TASK-076,Design the new dashboard,Development,Bob,To Do,High,2025-05-26,2025-05-28
+TASK-077,Fix login bug,Design,Charlie,In Progress,Medium,2025-06-05,2025-06-10
+TASK-078,Implement OAuth2 authentication,Design,Bob,To Do,High,2025-05-23,2025-06-01
+TASK-079,Update user manual,Documentation,Alice,In Progress,High,2025-05-20,2025-05-24
+TASK-080,Design the new dashboard,Testing,Alice,Done,Low,2025-05-16,2025-05-24
+TASK-081,Analyze user feedback,Testing,Alice,Done,Low,2025-05-13,2025-05-16
+TASK-082,Design the new dashboard,Testing,Charlie,To Do,Low,2025-06-04,2025-06-11
+TASK-083,Update user manual,Documentation,Charlie,Done,Low,2025-05-31,2025-06-10
+TASK-084,Update user manual,Development,Charlie,To Do,High,2025-05-16,2025-05-24
+TASK-085,Fix login bug,Design,David,Done,Medium,2025-05-15,2025-05-28
+TASK-086,Review PR #45,Testing,Alice,Done,Low,2025-05-15,2025-05-27
+TASK-087,Write unit tests for API,Testing,Bob,To Do,Low,2025-06-01,2025-06-05
+TASK-088,Design the new dashboard,Development,Alice,In Progress,High,2025-05-28,2025-06-11
+TASK-089,Analyze user feedback,Testing,Charlie,To Do,Medium,2025-06-05,2025-06-08
+TASK-090,Refactor old modules,Development,Bob,Done,High,2025-05-19,2025-05-26
+TASK-091,Refactor old modules,Development,Charlie,In Progress,Medium,2025-05-12,2025-05-24
+TASK-092,Refactor old modules,Testing,Bob,In Progress,Medium,2025-05-09,2025-05-15
+TASK-093,Create wireframes for new module,Documentation,Bob,In Progress,High,2025-05-20,2025-05-31
+TASK-094,Create wireframes for new module,Testing,Bob,In Progress,High,2025-05-09,2025-05-15
+TASK-095,Set up CI/CD pipeline,Design,Alice,To Do,Medium,2025-06-07,2025-06-09
+TASK-096,Refactor old modules,Documentation,Bob,Done,Low,2025-05-21,2025-06-03
+TASK-097,Update user manual,Design,Charlie,In Progress,Low,2025-06-07,2025-06-20
+TASK-098,Refactor old modules,Design,Bob,To Do,High,2025-06-04,2025-06-08
+TASK-099,Create wireframes for new module,Development,David,In Progress,Low,2025-06-03,2025-06-08
+TASK-100,Analyze user feedback,Documentation,Charlie,To Do,Medium,2025-05-26,2025-05-28
